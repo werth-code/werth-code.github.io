@@ -69,7 +69,7 @@ for (let i = 0; i < squares.length; i++) {
        let clickedColor = ele.style.backgroundColor
        
        if(clickedColor === pickedColor) {
-           message.innerText = "CORRECT!"
+           message.innerText = "YES!"
            resetGame.innerText = "Play Again?"
            changeColors(clickedColor)
            h1.style.backgroundColor = pickedColor

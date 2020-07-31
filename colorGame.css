@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(10, 27, 41);
+}
+
+.square {
+    width: 30%;
+    background: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+#navBar {
+    margin: 0% auto;
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 1%;
+}
+
+#message {
+    color: white;
+    margin: 0% auto;
+}
+
+#square-container {
+    margin: 0% auto;
+    max-width: 600px;
+}
+
+#h1Title {
+    text-align: center;
+    color: white;
+}
